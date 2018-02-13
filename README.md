@@ -4,8 +4,10 @@
 Replaces space with "<SP>" in "folder" and "fileName".
 
 
+
 ## removeSP(object)
 Replaces "<SP>" with space in "folder" and "fileName".
+
 
   
 ## clearDisplay()
