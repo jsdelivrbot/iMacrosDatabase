@@ -6,18 +6,23 @@ All the methods for Database Handling
 ### addSP(object)
 Replaces space with "<SP>" in "folder" and "fileName".
 
+
 ### removeSP(object)
 Replaces "<SP>" with space in "folder" and "fileName".
+
   
 ### clearDisplay()
 Removes any text from iimDisplay.
 
+
 ### getPath(object)
 **Returns** *folder* followed by backslash(\) followed by *fileName*
+
 
 ### exists(object)
 Calls **addSP(object)** then checks if file exists. 
 **Returns** true/false.
+
 
 ### rowExists(object,rowNumber)
 Calls **addSP(object)** then checks if row specified by rowNumber exists. 
@@ -30,7 +35,7 @@ Sets the "folder" and "fileName" variables.
 
 ### uploadFolder(object,message)
 Opens the select folder dialog with the given *message*.
-[]Make the method return true/false.
+[] Make the method return true/false.
 
 ### delete(object)
 Calls **addSP(object)** and checks if file exists.
