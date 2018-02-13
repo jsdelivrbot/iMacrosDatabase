@@ -1,6 +1,3 @@
-# iMacrosDatabase
-All the methods for Database Handling
-
 # v4.0
 
 ## addSP(object)
@@ -40,7 +37,7 @@ Sets the "folder" and "fileName" variables.
 ## uploadFolder(object,message)
 Opens the select folder dialog with the given *message*.
 
-[] Make the method return true/false.
+[ ] Make the method return true/false.
 
 ## delete(object)
 Calls **addSP(object)** and checks if file exists.
