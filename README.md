@@ -4,10 +4,8 @@
 Replaces space with "<SP>" in "folder" and "fileName".
 
 
-
 ## removeSP(object)
 Replaces "<SP>" with space in "folder" and "fileName".
-
 
   
 ## clearDisplay()
@@ -39,7 +37,7 @@ Sets the "folder" and "fileName" variables.
 ## uploadFolder(object,message)
 Opens the select folder dialog with the given *message*.
 
-[ ] Make the method return true/false.
+- [ ] Make the method return true/false.
 
 ## delete(object)
 Calls **addSP(object)** and checks if file exists.
