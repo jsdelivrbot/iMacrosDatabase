@@ -76,5 +76,5 @@ Makes an row entry in the file specified by *object*.
 
 The *data* variable is an array that contains all the values to insert.
 
-##To-Do
+## To-Do
 - [ ] Create a new method for updating the *folder* and *fileName* variables.
