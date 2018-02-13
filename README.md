@@ -1,4 +1,5 @@
 # v4.0
+https://cdn.rawgit.com/access2vivek/iMacrosDatabase/d07072fd/v4.0.js
 
 ## addSP(object)
 Replaces space with "<SP>" in "folder" and "fileName".
