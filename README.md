@@ -38,7 +38,7 @@ Sets the "folder" and "fileName" variables.
 ## uploadFolder(object,message)
 Opens the select folder dialog with the given *message*.
 
-- [ ] Make the method return true/false.
+- [x] Make the method return true/false.
 
 ## delete(object)
 Calls **addSP(object)** and checks if file exists.
@@ -76,5 +76,18 @@ Makes an row entry in the file specified by *object*.
 
 The *data* variable is an array that contains all the values to insert.
 
+## getHeaders(object,headers)
+Reads the first row of the file specified in the *object* variable.
+
+Sets the values of *headers* variable array to the first row of the file.
+
+## setFolder(object,folder)
+Sets the "folder" variable of the *object* variable to the *folder* parameter.
+
+## setFileName(object,fileName)
+Sets the "fileName" variable of the *object* variable to the *fileName* parameter.
+
+## setFile(object,folder,fileName)
+Sets the "folder" and "fileName" variable of the *object* variable to *folder* and *fileName* parameters respectively.
+
 ## To-Do
-- [ ] Create a new method for updating the *folder* and *fileName* variables.
