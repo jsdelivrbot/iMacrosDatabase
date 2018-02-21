@@ -1,3 +1,8 @@
+# v4.1
+https://cdn.rawgit.com/access2vivek/iMacrosDatabase/adfe8a0f/v4.1.js
+
+Modified **upload** and **read** to take care of *currentRow* variable.
+
 # v4.0
 https://cdn.rawgit.com/access2vivek/iMacrosDatabase/bba95004/v4.0.js
 
