@@ -1,5 +1,5 @@
 # v4.1
-https://cdn.rawgit.com/access2vivek/iMacrosDatabase/adfe8a0f/v4.1.js
+https://cdn.rawgit.com/access2vivek/iMacrosDatabase/61cb1d7a/v4.1.js
 
 Modified **upload** and **read** to take care of *currentRow* variable.
 
