@@ -1,3 +1,8 @@
+# v4.2
+https://cdn.rawgit.com/access2vivek/iMacrosDatabase/c7cff8f1/v4.2.js
+
+Changed many of the methods so that they are optimum. Removed unnecessary methods to speed up the code.
+
 # v4.1
 https://cdn.rawgit.com/access2vivek/iMacrosDatabase/61cb1d7a/v4.1.js
 
