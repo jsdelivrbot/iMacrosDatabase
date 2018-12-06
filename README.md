@@ -1,15 +1,15 @@
 # v4.2
-https://cdn.rawgit.com/access2vivek/iMacrosDatabase/c7cff8f1/v4.2.js
+https://cdn.jsdelivr.net/gh/access2vivek/iMacrosDatabase@c7cff8f1/v4.2.js
 
 Changed many of the methods so that they are optimum. Removed unnecessary methods to speed up the code.
 
 # v4.1
-https://cdn.rawgit.com/access2vivek/iMacrosDatabase/61cb1d7a/v4.1.js
+https://cdn.jsdelivr.net/gh/access2vivek/iMacrosDatabase@61cb1d7a/v4.1.js
 
 Modified **upload** and **read** to take care of *currentRow* variable.
 
 # v4.0
-https://cdn.rawgit.com/access2vivek/iMacrosDatabase/bba95004/v4.0.js
+https://cdn.jsdelivr.net/gh/access2vivek/iMacrosDatabase@bba95004/v4.0.js
 
 ## addSP(object)
 Replaces space with "<SP>" in "folder" and "fileName".
